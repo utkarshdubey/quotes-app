@@ -1,0 +1,2 @@
+# Quotes - A dead simple quotes app.
+Quotes, is a dead simple, and clean native mobile applications that serves to the user's delight by randomizing <strike>inspiring</strike> *whatever* quotes when you click on the blue button.
